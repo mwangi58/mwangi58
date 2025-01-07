@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Hi, I'm [Eugene Mwangi] 👋
+
+# Hi, I'm Eugene Mwangi 👋
 
 ## 🚀 Projects
 - **[Project Name](https://github.com/yourusername/projectname)**: Brief description of the project.
