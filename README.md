@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**mwangi58/mwangi58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [Eugene Mwangi] 👋
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **[Project Name](https://github.com/yourusername/projectname)**: Brief description of the project.
+- **[Portfolio Website](https://yourusername.github.io)**: Live version of this portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Programming: Python,R and SQL
+- Data Analysis: Pandas, NumPy
+- Data visualization:Power Bi
+- Tools: Git, Docker, Azure
+
+## 📫 Contact
+- Email: mwangieugene58@gmail.com
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+
